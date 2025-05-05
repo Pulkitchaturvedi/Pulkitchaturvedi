@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that emphasize test strategy, automated testing (including mobile, API, and backend), and DevOps integration.
 
-📫 How to reach me: LinkedIn or via email at pulkitchaturvedi87@gmail.com
+📫 How to reach me: LinkedIn or via email at pulkitinberlin@gmail.com
 
 😄 Pronouns: He/Him
 
